@@ -2,7 +2,7 @@
 
 To generate a simple two layer 8 x 8 kernel:
 ```
-python generate_kernels.py
+python generate_kernels.py --kernel "two_layer"
 ```
 
 To generate a simple five layer 8 x 8 kernel 
